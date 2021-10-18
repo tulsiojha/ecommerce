@@ -1,0 +1,4 @@
+Django==3.2.7
+django-cors-headers==3.8.0
+django-mysql==4.0.0
+djangorestframework==3.12.4
